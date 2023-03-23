@@ -1,0 +1,47 @@
+*
+{
+  margin: 5px;
+}
+.topname{
+    word-spacing: 11em;
+}
+
+.checked{
+    color: gold;
+}
+name{
+    font-weight: normal;
+}
+star{
+    color: red;
+}
+.radio
+{
+    margin-right: 65px;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  td {
+    text-align: center;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+  }
+  th {
+    text-align: left;
+    text-overflow: clip;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
